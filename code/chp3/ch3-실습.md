@@ -37,6 +37,7 @@ create table costomer(
   phonenumber int,
   startdate date
 );
+
 create table manager(
   employee_id int,
   role varchar(10),
